@@ -1,0 +1,6 @@
+2024-01-13T16:24:58+00:00 CRITICAL Cannot redeclare obtener_informacion_stock_precio() (previously declared in C:\xampp\htdocs\wordpress\wp-content\themes\hello-elementor\functions.php:275) in C:\xampp\htdocs\wordpress\wp-content\themes\hello-elementor\functions.php on line 288
+
+2024-01-13T16:26:59+00:00 CRITICAL Cannot redeclare obtener_informacion_stock_precio() (previously declared in C:\xampp\htdocs\wordpress\wp-content\themes\hello-elementor\functions.php:275) in C:\xampp\htdocs\wordpress\wp-content\themes\hello-elementor\functions.php on line 288
+
+2024-01-13T16:29:00+00:00 CRITICAL Cannot redeclare obtener_informacion_stock_precio() (previously declared in C:\xampp\htdocs\wordpress\wp-content\themes\hello-elementor\functions.php:275) in C:\xampp\htdocs\wordpress\wp-content\themes\hello-elementor\functions.php on line 288
+
